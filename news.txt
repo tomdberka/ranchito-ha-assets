@@ -1,8 +1,8 @@
 2026-11-02
-The Register Goes to Press
+The Register is Operational
 
-Ranchito Blanka now has a newspaper of its own. Each evening at seven, the Register reports on the day's sun, wind and weather at the property. Winter time warnings have been added, as we anticipate the BMS shutoff in the next 60 days or so. We will monitor how the system responds to the power interruption. 
-
+Greetings from Ranchito Blanka. Each evening at seven, the Register reports on the previous 24 hours of energy generation and weather at the property. Winter time warnings have been added, as we anticipate the first BMS shutoff in the next 60 days or so. We will monitor how the system responds to the power interruption. 
+Watch for periodic updates 
 -- Chief Never Blink Update --
 Due to rising memory costs, decision was made to purchase Mini PC for the project. A great deal was had. 
 
