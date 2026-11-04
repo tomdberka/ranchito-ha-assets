@@ -1,10 +1,5 @@
-2026-11-02
-The Register is Operational
+2026-11-04
+Parts for Chief No Blink project arriving. 
 
-Greetings from Ranchito Blanka. Each evening, the Register reports on the previous 24 hours of energy generation and weather at the property. Winter time warnings have been added, as we anticipate the first BMS shutoff in the next 60 days or so. We will monitor how the system responds to the power interruption. 
-Stay in the know for periodic updates. 
-1 cent root beer floats tomorrow at the Ft. Garland general store. Tomorrow only. 
-Reports of strange creatures have been caught on video. Check surveillance systems for evidence. 
--- Chief Never Blink Update --
-Due to rising memory costs, decision was made to purchase Mini PC for the project. A great deal was had. 
+Main computing unit has arrived for the CNB project. Official decals are also on order. Top minds are working on connectivity issues. Upgrades to the mifi hotspot may be inevitable.  
 
